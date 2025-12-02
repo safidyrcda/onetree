@@ -1,0 +1,15 @@
+{
+  "id": "TR-0001",
+  "speciesScientific": "Ravenala madagascariensis",
+  "speciesVernacular": "Ravinala",
+  "plantationDate": "2024-10-15T08:00:00Z",
+  "location": {
+    "latitude": -18.8162,
+    "longitude": 48.4218,
+    "area": "Mantadia - Zone 3"
+  },
+  "photos": [
+    "https://picsum.photos/seed/tree1/600/400",
+    "https://picsum.photos/seed/tree2/600/400"
+  ]
+}
